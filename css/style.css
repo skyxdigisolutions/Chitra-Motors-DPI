@@ -10,13 +10,13 @@
     font-weight: 600 !important;
 }
 
-.back-to-top {
+/* .back-to-top {
     position: fixed;
     display: none;
     right: 45px;
     bottom: 45px;
     z-index: 99;
-}
+} */
 
 
 /*** Spinner ***/
